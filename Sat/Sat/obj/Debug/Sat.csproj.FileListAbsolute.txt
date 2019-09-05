@@ -1,0 +1,19 @@
+C:\Users\SSPC-1340\Desktop\GPS\SIGNAL 2.2.2\Sat\Sat\bin\Debug\Sat.exe.config
+C:\Users\SSPC-1340\Desktop\GPS\SIGNAL 2.2.2\Sat\Sat\bin\Debug\Sat.exe
+C:\Users\SSPC-1340\Desktop\GPS\SIGNAL 2.2.2\Sat\Sat\bin\Debug\Sat.pdb
+C:\Users\SSPC-1340\Desktop\GPS\SIGNAL 2.2.2\Sat\Sat\obj\Debug\Sat.Form1.resources
+C:\Users\SSPC-1340\Desktop\GPS\SIGNAL 2.2.2\Sat\Sat\obj\Debug\Sat.Properties.Resources.resources
+C:\Users\SSPC-1340\Desktop\GPS\SIGNAL 2.2.2\Sat\Sat\obj\Debug\Sat.csproj.GenerateResource.Cache
+C:\Users\SSPC-1340\Desktop\GPS\SIGNAL 2.2.2\Sat\Sat\obj\Debug\Sat.exe
+C:\Users\SSPC-1340\Desktop\GPS\SIGNAL 2.2.2\Sat\Sat\obj\Debug\Sat.pdb
+C:\Users\SSPC-1340\Desktop\GPS\SIGNAL 2.2.2\Sat\Sat\obj\Debug\Sat.csprojResolveAssemblyReference.cache
+C:\Users\SSPC-1340\Desktop\Sat\Sat\bin\Debug\Sat.exe.config
+C:\Users\SSPC-1340\Desktop\Sat\Sat\bin\Debug\Sat.exe
+C:\Users\SSPC-1340\Desktop\Sat\Sat\bin\Debug\Sat.pdb
+C:\Users\SSPC-1340\Desktop\Sat\Sat\obj\Debug\Sat.csprojAssemblyReference.cache
+C:\Users\SSPC-1340\Desktop\Sat\Sat\obj\Debug\Sat.Form1.resources
+C:\Users\SSPC-1340\Desktop\Sat\Sat\obj\Debug\Sat.Properties.Resources.resources
+C:\Users\SSPC-1340\Desktop\Sat\Sat\obj\Debug\Sat.csproj.GenerateResource.cache
+C:\Users\SSPC-1340\Desktop\Sat\Sat\obj\Debug\Sat.csproj.CoreCompileInputs.cache
+C:\Users\SSPC-1340\Desktop\Sat\Sat\obj\Debug\Sat.exe
+C:\Users\SSPC-1340\Desktop\Sat\Sat\obj\Debug\Sat.pdb
